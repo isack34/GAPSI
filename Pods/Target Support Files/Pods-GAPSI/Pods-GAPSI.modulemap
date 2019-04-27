@@ -1,0 +1,6 @@
+framework module Pods_GAPSI {
+  umbrella header "Pods-GAPSI-umbrella.h"
+
+  export *
+  module * { export * }
+}
